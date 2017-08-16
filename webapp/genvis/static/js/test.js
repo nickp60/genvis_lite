@@ -1,5 +1,5 @@
 function test(test_url) {
-    colors = [ 
+    colors = [
         '#1f77b4',  // muted blue
         '#ff7f0e',  // safety orange
         '#2ca02c',  // cooked asparagus green
@@ -36,7 +36,7 @@ function test(test_url) {
                    series: "gene",
                    restrictions: [["tissue", "in", ["AM", "LUNG"]],
                                   ["flu", "eq", 150],
-                                  ["gene", "in", ["ENSMUSG00000000088", "ENSMUSG00000000001"]]]},
+                                  ["gene", "in", ["ENSMUSG00000036932", "ENSMUSG00000023452"]]]},
             errorLineMode: 'lines',
             lineMode: 'lines+markers',
             errorBars: false
@@ -53,7 +53,7 @@ function test(test_url) {
                    xaxis: "tissue",
                    series: "gene",
                    restrictions: [
-                      ["gene", "in", ["ENSMUSG00000000088", "ENSMUSG00000000001"]],
+                       ["gene", "in", ["ENSMUSG00000036932", "ENSMUSG00000023452"]],
                       ["age", "eq", 12]]},
             errorLineMode: null,
             lineMode: 'markers',
@@ -84,7 +84,8 @@ function test(test_url) {
                   xaxis: "tissue",
                   series: "gene",
                   restrictions: [
-                      ["gene", "in", ["ENSMUSG00000000088", "ENSMUSG00000000001"]],
+                      ["gene", "in", ["ENSMUSG00000036932", "ENSMUSG00000023452"]],
+                      // ["gene", "in", ["ENSMUSG00000000088", "ENSMUSG00000000001"]],
                       ["age", "eq", 4]]},
             errorLineMode: null,
             lineMode: 'markers',
@@ -196,22 +197,22 @@ function test(test_url) {
                 }
             });
 
-            var defaultPlotlyConfiguration = { 
+            var defaultPlotlyConfiguration = {
                 displayModeBar: true,
                 modeBarButtonsToRemove: [
-                    'sendDataToCloud', 
-                    'autoScale2d', 
-                    'hoverClosestCartesian', 
-                    'hoverCompareCartesian', 
-                    'lasso2d', 
-                    'select2d'], 
-                displaylogo: false, 
+                    'sendDataToCloud',
+                    'autoScale2d',
+                    'hoverClosestCartesian',
+                    'hoverCompareCartesian',
+                    'lasso2d',
+                    'select2d'],
+                displaylogo: false,
                 showTips: false };
             Plotly.newPlot(mainCanvas, plots, {
                 title: title,
                 yaxis: {title: ylabel},
                 xaxis: {title: xlabel}
-                // margin: { t: 0 } 
+                // margin: { t: 0 }
             }, defaultPlotlyConfiguration);
         });
     };
