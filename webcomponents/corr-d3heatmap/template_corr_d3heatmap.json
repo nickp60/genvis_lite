@@ -1,0 +1,713 @@
+{
+  "x": {
+    "rows": {
+      "members": 20,
+      "height": 5.61144255543,
+      "edgePar": {
+        "col": ""
+      },
+      "children": [
+        {
+          "members": 7,
+          "height": 0.961549508497,
+          "edgePar": {
+            "col": "#CC476B"
+          },
+          "children": [
+            {
+              "members": 4,
+              "height": 0.809274133495,
+              "edgePar": {
+                "col": "#CC476B"
+              },
+              "children": [
+                {
+                  "members": 2,
+                  "height": 0.356607851294,
+                  "edgePar": {
+                    "col": "#CC476B"
+                  },
+                  "children": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000149",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    },
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000001",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "members": 2,
+                  "height": 0.464679551688,
+                  "edgePar": {
+                    "col": "#CC476B"
+                  },
+                  "children": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000134",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    },
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000088",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "members": 3,
+              "height": 0.577481669611,
+              "edgePar": {
+                "col": "#CC476B"
+              },
+              "children": [
+                {
+                  "members": 2,
+                  "height": 0.392963730027,
+                  "edgePar": {
+                    "col": "#CC476B"
+                  },
+                  "children": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000037",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    },
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000094",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "members": 1,
+                  "height": 0,
+                  "label": "ENSMUSG00000000131",
+                  "edgePar": {
+                    "col": "#CC476B"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "members": 13,
+          "height": 3.81292770526,
+          "edgePar": {
+            "col": ""
+          },
+          "children": [
+            {
+              "members": 6,
+              "height": 2.45879307247,
+              "edgePar": {
+                "col": "#228B00"
+              },
+              "children": [
+                {
+                  "members": 4,
+                  "height": 2.19284063373,
+                  "edgePar": {
+                    "col": "#228B00"
+                  },
+                  "children": [
+                    {
+                      "members": 3,
+                      "height": 1.88644327194,
+                      "edgePar": {
+                        "col": "#228B00"
+                      },
+                      "children": [
+                        {
+                          "members": 2,
+                          "height": 1.29228563301,
+                          "edgePar": {
+                            "col": "#228B00"
+                          },
+                          "children": [
+                            {
+                              "members": 1,
+                              "height": 0,
+                              "label": "ENSMUSG00000000126",
+                              "edgePar": {
+                                "col": "#228B00"
+                              }
+                            },
+                            {
+                              "members": 1,
+                              "height": 0,
+                              "label": "ENSMUSG00000000031",
+                              "edgePar": {
+                                "col": "#228B00"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000120",
+                          "edgePar": {
+                            "col": "#228B00"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000049",
+                      "edgePar": {
+                        "col": "#228B00"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "members": 2,
+                  "height": 1.37339875013,
+                  "edgePar": {
+                    "col": "#228B00"
+                  },
+                  "children": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000028",
+                      "edgePar": {
+                        "col": "#228B00"
+                      }
+                    },
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000127",
+                      "edgePar": {
+                        "col": "#228B00"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "members": 7,
+              "height": 1.84596387531,
+              "edgePar": {
+                "col": "#0082CE"
+              },
+              "children": [
+                {
+                  "members": 4,
+                  "height": 1.52343093666,
+                  "edgePar": {
+                    "col": "#0082CE"
+                  },
+                  "children": [
+                    {
+                      "members": 2,
+                      "height": 0.882267086323,
+                      "edgePar": {
+                        "col": "#0082CE"
+                      },
+                      "children": [
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000148",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        },
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000056",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "members": 2,
+                      "height": 1.3977979416,
+                      "edgePar": {
+                        "col": "#0082CE"
+                      },
+                      "children": [
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000085",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        },
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000142",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "members": 3,
+                  "height": 0.992146883867,
+                  "edgePar": {
+                    "col": "#0082CE"
+                  },
+                  "children": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000058",
+                      "edgePar": {
+                        "col": "#0082CE"
+                      }
+                    },
+                    {
+                      "members": 2,
+                      "height": 0.638044624677,
+                      "edgePar": {
+                        "col": "#0082CE"
+                      },
+                      "children": [
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000093",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        },
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000078",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "cols": {
+      "members": 20,
+      "height": 5.61144255543,
+      "edgePar": {
+        "col": ""
+      },
+      "children": [
+        {
+          "members": 7,
+          "height": 0.961549508497,
+          "edgePar": {
+            "col": "#CC476B"
+          },
+          "children": [
+            {
+              "members": 4,
+              "height": 0.809274133495,
+              "edgePar": {
+                "col": "#CC476B"
+              },
+              "children": [
+                {
+                  "members": 2,
+                  "height": 0.356607851294,
+                  "edgePar": {
+                    "col": "#CC476B"
+                  },
+                  "children": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000149",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    },
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000001",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "members": 2,
+                  "height": 0.464679551688,
+                  "edgePar": {
+                    "col": "#CC476B"
+                  },
+                  "children": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000134",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    },
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000088",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "members": 3,
+              "height": 0.577481669611,
+              "edgePar": {
+                "col": "#CC476B"
+              },
+              "children": [
+                {
+                  "members": 2,
+                  "height": 0.392963730027,
+                  "edgePar": {
+                    "col": "#CC476B"
+                  },
+                  "children": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000037",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    },
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000094",
+                      "edgePar": {
+                        "col": "#CC476B"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "members": 1,
+                  "height": 0,
+                  "label": "ENSMUSG00000000131",
+                  "edgePar": {
+                    "col": "#CC476B"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "members": 13,
+          "height": 3.81292770526,
+          "edgePar": {
+            "col": ""
+          },
+          "children": [
+            {
+              "members": 6,
+              "height": 2.45879307247,
+              "edgePar": {
+                "col": "#228B00"
+              },
+              "children": [
+                {
+                  "members": 4,
+                  "height": 2.19284063373,
+                  "edgePar": {
+                    "col": "#228B00"
+                  },
+                  "children": [
+                    {
+                      "members": 3,
+                      "height": 1.88644327194,
+                      "edgePar": {
+                        "col": "#228B00"
+                      },
+                      "children": [
+                        {
+                          "members": 2,
+                          "height": 1.29228563301,
+                          "edgePar": {
+                            "col": "#228B00"
+                          },
+                          "children": [
+                            {
+                              "members": 1,
+                              "height": 0,
+                              "label": "ENSMUSG00000000126",
+                              "edgePar": {
+                                "col": "#228B00"
+                              }
+                            },
+                            {
+                              "members": 1,
+                              "height": 0,
+                              "label": "ENSMUSG00000000031",
+                              "edgePar": {
+                                "col": "#228B00"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000120",
+                          "edgePar": {
+                            "col": "#228B00"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000049",
+                      "edgePar": {
+                        "col": "#228B00"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "members": 2,
+                  "height": 1.37339875013,
+                  "edgePar": {
+                    "col": "#228B00"
+                  },
+                  "children": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000028",
+                      "edgePar": {
+                        "col": "#228B00"
+                      }
+                    },
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000127",
+                      "edgePar": {
+                        "col": "#228B00"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "members": 7,
+              "height": 1.84596387531,
+              "edgePar": {
+                "col": "#0082CE"
+              },
+              "children": [
+                {
+                  "members": 4,
+                  "height": 1.52343093666,
+                  "edgePar": {
+                    "col": "#0082CE"
+                  },
+                  "children": [
+                    {
+                      "members": 2,
+                      "height": 0.882267086323,
+                      "edgePar": {
+                        "col": "#0082CE"
+                      },
+                      "children": [
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000148",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        },
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000056",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "members": 2,
+                      "height": 1.3977979416,
+                      "edgePar": {
+                        "col": "#0082CE"
+                      },
+                      "children": [
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000085",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        },
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000142",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "members": 3,
+                  "height": 0.992146883867,
+                  "edgePar": {
+                    "col": "#0082CE"
+                  },
+                  "children": [
+                    {
+                      "members": 1,
+                      "height": 0,
+                      "label": "ENSMUSG00000000058",
+                      "edgePar": {
+                        "col": "#0082CE"
+                      }
+                    },
+                    {
+                      "members": 2,
+                      "height": 0.638044624677,
+                      "edgePar": {
+                        "col": "#0082CE"
+                      },
+                      "children": [
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000093",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        },
+                        {
+                          "members": 1,
+                          "height": 0,
+                          "label": "ENSMUSG00000000078",
+                          "edgePar": {
+                            "col": "#0082CE"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "matrix": {
+      "data": ["1", "0.926", "0.876", "0.807", "0.794", "0.815", "0.735", "0.213", "0.155", "0.246", "-0.032", "-0.342", "-0.231", "-0.495", "-0.43", "-0.363", "-0.476", "-0.704", "-0.863", "-0.898", "0.926", "1", "0.775", "0.659", "0.8", "0.839", "0.676", "0.078", "0.059", "0.256", "-0.001", "-0.353", "-0.272", "-0.431", "-0.279", "-0.432", "-0.398", "-0.599", "-0.872", "-0.87", "0.876", "0.775", "1", "0.794", "0.697", "0.656", "0.65", "0.161", "0.245", "0.255", "-0.156", "-0.1", "-0.066", "-0.417", "-0.517", "-0.355", "-0.518", "-0.652", "-0.744", "-0.852", "0.807", "0.659", "0.794", "1", "0.618", "0.554", "0.522", "0.17", "0.141", "0.325", "-0.062", "-0.225", "-0.058", "-0.431", "-0.568", "-0.227", "-0.48", "-0.646", "-0.709", "-0.72", "0.794", "0.8", "0.697", "0.618", "1", "0.861", "0.691", "0.111", "-0.082", "0.278", "0.044", "-0.096", "-0.213", "-0.232", "-0.243", "-0.403", "-0.518", "-0.545", "-0.816", "-0.775", "0.815", "0.839", "0.656", "0.554", "0.861", "1", "0.69", "0.164", "0.004", "0.179", "-0.052", "-0.299", "-0.295", "-0.285", "-0.111", "-0.392", "-0.434", "-0.534", "-0.779", "-0.81", "0.735", "0.676", "0.65", "0.522", "0.691", "0.69", "1", "0.169", "-0.026", "0.167", "-0.075", "-0.169", "-0.17", "-0.209", "-0.206", "-0.356", "-0.425", "-0.488", "-0.654", "-0.754", "0.213", "0.078", "0.161", "0.17", "0.111", "0.164", "0.169", "1", "0.201", "-0.138", "-0.284", "-0.236", "0.003", "0.003", "-0.002", "0.195", "-0.244", "-0.094", "-0.094", "-0.221", "0.155", "0.059", "0.245", "0.141", "-0.082", "0.004", "-0.026", "0.201", "1", "-0.079", "-0.01", "-0.09", "-0.078", "-0.195", "-0.213", "0.221", "0.032", "-0.157", "-0.078", "-0.125", "0.246", "0.256", "0.255", "0.325", "0.278", "0.179", "0.167", "-0.138", "-0.079", "1", "0.028", "0.218", "0.156", "-0.258", "-0.354", "-0.27", "-0.161", "-0.161", "-0.32", "-0.248", "-0.032", "-0.001", "-0.156", "-0.062", "0.044", "-0.052", "-0.075", "-0.284", "-0.01", "0.028", "1", "0.036", "-0.521", "0.02", "-0.045", "-0.067", "0.462", "-0.207", "-0.202", "0.186", "-0.342", "-0.353", "-0.1", "-0.225", "-0.096", "-0.299", "-0.169", "-0.236", "-0.09", "0.218", "0.036", "1", "0.208", "0.177", "-0.055", "-0.112", "0.063", "0.19", "0.235", "0.3", "-0.231", "-0.272", "-0.066", "-0.058", "-0.213", "-0.295", "-0.17", "0.003", "-0.078", "0.156", "-0.521", "0.208", "1", "0.151", "-0.019", "0.133", "-0.246", "0.188", "0.356", "0.134", "-0.495", "-0.431", "-0.417", "-0.431", "-0.232", "-0.285", "-0.209", "0.003", "-0.195", "-0.258", "0.02", "0.177", "0.151", "1", "0.464", "0.127", "0.229", "0.372", "0.364", "0.293", "-0.43", "-0.279", "-0.517", "-0.568", "-0.243", "-0.111", "-0.206", "-0.002", "-0.213", "-0.354", "-0.045", "-0.055", "-0.019", "0.464", "1", "0.126", "0.157", "0.468", "0.426", "0.315", "-0.363", "-0.432", "-0.355", "-0.227", "-0.403", "-0.392", "-0.356", "0.195", "0.221", "-0.27", "-0.067", "-0.112", "0.133", "0.127", "0.126", "1", "0.269", "0.277", "0.467", "0.37", "-0.476", "-0.398", "-0.518", "-0.48", "-0.518", "-0.434", "-0.425", "-0.244", "0.032", "-0.161", "0.462", "0.063", "-0.246", "0.229", "0.157", "0.269", "1", "0.316", "0.348", "0.572", "-0.704", "-0.599", "-0.652", "-0.646", "-0.545", "-0.534", "-0.488", "-0.094", "-0.157", "-0.161", "-0.207", "0.19", "0.188", "0.372", "0.468", "0.277", "0.316", "1", "0.644", "0.61", "-0.863", "-0.872", "-0.744", "-0.709", "-0.816", "-0.779", "-0.654", "-0.094", "-0.078", "-0.32", "-0.202", "0.235", "0.356", "0.364", "0.426", "0.467", "0.348", "0.644", "1", "0.805", "-0.898", "-0.87", "-0.852", "-0.72", "-0.775", "-0.81", "-0.754", "-0.221", "-0.125", "-0.248", "0.186", "0.3", "0.134", "0.293", "0.315", "0.37", "0.572", "0.61", "0.805", "1"],
+      "dim": [20, 20],
+      "rows": ["ENSMUSG00000000149", "ENSMUSG00000000001", "ENSMUSG00000000134", "ENSMUSG00000000088", "ENSMUSG00000000037", "ENSMUSG00000000094", "ENSMUSG00000000131", "ENSMUSG00000000126", "ENSMUSG00000000031", "ENSMUSG00000000120", "ENSMUSG00000000049", "ENSMUSG00000000028", "ENSMUSG00000000127", "ENSMUSG00000000148", "ENSMUSG00000000056", "ENSMUSG00000000085", "ENSMUSG00000000142", "ENSMUSG00000000058", "ENSMUSG00000000093", "ENSMUSG00000000078"],
+      "cols": ["ENSMUSG00000000149", "ENSMUSG00000000001", "ENSMUSG00000000134", "ENSMUSG00000000088", "ENSMUSG00000000037", "ENSMUSG00000000094", "ENSMUSG00000000131", "ENSMUSG00000000126", "ENSMUSG00000000031", "ENSMUSG00000000120", "ENSMUSG00000000049", "ENSMUSG00000000028", "ENSMUSG00000000127", "ENSMUSG00000000148", "ENSMUSG00000000056", "ENSMUSG00000000085", "ENSMUSG00000000142", "ENSMUSG00000000058", "ENSMUSG00000000093", "ENSMUSG00000000078"]
+    },
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAEyUlEQVQ4jT2UW2xTZQDHf993Tk9Pb2u7bu3WXdhNLgERJ0EITLkpMSpRjDFEjfFBY3wQTdQ3Ex41IWhifJGoD5gQeSBmkSCJCSSiXHQboGGkILA7o1vbdT3tac/l82HR1//b//YTj275SoXbowQSJkYmiqYJ3IZHS1uMI+9uIqIVKDay9Khh/LOnEd1ZaqdG0NMRtEwYJ1dg4vRdbuR8ahWQ4fYo1bkK8Z4ED61PoxT4tktTMkTaHKfJmMJTCgwT5fpgVdHTYQKPdOLNW2jZGImBOL4HwTDogYRJ96Y2Js/cxtnbR7Y7TjgaREioOBlKjTZAoaZzaDuHwDARf09THb6BuS2LfXEWu2jT2yOYngNpZKJ09jXTvrePuV/ukMpE6czGGOhJ4iuNVHCSxWoD0ZxBTU+AkCjHp162kf1dyCYDIQXhIPR3g7b6idcOF/JV2rvibNg3wC+fXWAmb+Hokv2bPSLFy5SNjbQmlxCagsk7yM5mQoOduGP/4M5UMCIG41cr+Aqk2/BwluuEo0FScZPExgyl6/MA2F4CmlpJh5agdB81NoLKL0B5GXp6EZok0B1D6pKwCTUb9Ja2GE3JEEJCyNTp35yFzVlGvh1DvdEFTh1puOA60NcLKES1BvP3EdEAWA30eJCOPpOFKRsxY5VU2hyn4rTjK42QXsD2Eigl2fvkMGfOvUI6/z3kbkMsiti0HQCU4gFbaR09guh/aEWauoco2XdUkzHFROVxUsFJYqUL0NQKTp15bSfP7PqB0Z/CEEnC8gJIDeamwHWYWfMRHeYl1N1riHgLyq4g7pZt5SkFwGK1QSyokw4tIYVL4v4pRDjO4HNVRn8bYLa+lbBeIH75S/yZPLKtGTo7AIG6cRORakaopZMKw0RN5xDNGUhmoXQfXAd19U/E9r1ghBjcfpvRi6uxDn1K5OiHYJXAczg+u4fX3a9BCPJr3kF4J99QyvXRdg6hpicQXT2osZGVAopFRO8As9GXyYauMLgtx+lzBzFkjVTtPKpaRmU3sGivpubFKNoeUnRnkZnmlQf0r4OZSRBipc1N20FqhPUC1qFPOX3uIM/uOoEubTBCWOldiN+HAcXdUp3++AzC+vhppafDiICGcnwCO9ZCeRnRkoJ1myE3hiqVENueYtHbiC5tdg39zAfHXuDAuiUKjVXkFutIAS1hA6mnIwQe6aJxu0TlrwfgebB+/f/TwHXwZ/JglUjVzhN3rvHBsRf4/K0fAYjpD5guVinYDg3PR7jHX1X/UUP2d+GO3EJoEhENsPjiURzfJHvlE8TGx1C2tWITH4ChHec4cfZNfKX4Y7JIRzKMdHIFRMRYocbwGI3xAn65jjdv0Tp6hA7zEnR2cHx2Dyq7gciVbyg0VuH4IU6cfZOD+77Dcjx6WyJcHJ9H3BxcqxIDceyijZCCeHccqUv0eJDQoZdQlRIoEJUK+bXvAorreYPpYpUt3Uksx+Pt548z9P5WQqEA2u7l5sMTN22C0gPbZfxqhcLEMrJmkziwBRGKokZHEYk4i8nd3CquxOsJuLdgETV1rPYIv35xibIu0fY3Uod1A6yaINEEvgK7vkLt9j1ZMA1Eo8HCw++Rr+msT83R8JPEDB0joHHhxjwKKOuS/Pl7/AsZpRzEI/e34AAAAABJRU5ErkJggg==",
+    "theme": null,
+    "options": {
+      "xaxis_height": 80,
+      "yaxis_width": 120,
+      "xaxis_font_size": null,
+      "yaxis_font_size": null,
+      "brush_color": "#0000FF",
+      "show_grid": true,
+      "anim_duration": 500
+    }
+  },
+  "width": null,
+  "height": null,
+  "sizingPolicy": {
+    "defaultWidth": null,
+    "defaultHeight": null,
+    "padding": null,
+    "viewer": {
+      "defaultWidth": null,
+      "defaultHeight": null,
+      "padding": null,
+      "fill": true,
+      "suppress": false,
+      "paneHeight": null
+    },
+    "browser": {
+      "defaultWidth": null,
+      "defaultHeight": null,
+      "padding": null,
+      "fill": true
+    },
+    "knitr": {
+      "defaultWidth": null,
+      "defaultHeight": null,
+      "figure": true
+    }
+  },
+  "dependencies": null,
+  "elementId": null,
+  "preRenderHook": null,
+  "jsHooks": []
+}
